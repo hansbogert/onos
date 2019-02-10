@@ -28,7 +28,7 @@ This enables exciting new capabilities, and disruptive deployment and operationa
 
 ### Dependencies
 
-The following packages are reuqired:
+The following packages are required:
 
 * git
 * zip
